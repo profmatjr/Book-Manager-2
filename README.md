@@ -7,9 +7,9 @@ This is a second version of the program Book Manager. A C program with GTK inter
 
 ## Screenshots
 
-![Screenshot of Window Program](Figures/screenshot.png)
+![Screenshot of Window Program1](Figures/screenshot.png)
 
-![Screenshot of Window Program](Figures/screenshot1.png)
+![Screenshot of Window Program2](Figures/screenshot1.png)
 
 ## Installation
 
