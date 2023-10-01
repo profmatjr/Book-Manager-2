@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Books Manager
+Comment=Books Manager
+Exec=/usr/local/bin/book-manager
+Icon=book-manager_icon
+Terminal=false
+Type=Application
+Categories=Utility;
