@@ -18,8 +18,8 @@ This is a second version of the program Book Manager. A C program with GTK inter
 Clone the repository and navigate into the project directory, build and install:
 
 ```bash
-git clone https://github.com/profmatjr/Book-Manager2.git
-cd Book-Manager2
+git clone https://github.com/profmatjr/Book-Manager-2.git
+cd Book-Manager-2
 make
 sudo make install
 
